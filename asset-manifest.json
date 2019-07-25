@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sports-beth/static/css/main.80c3d5e1.chunk.css",
+    "main.js": "/sports-beth/static/js/main.fcd17239.chunk.js",
+    "main.js.map": "/sports-beth/static/js/main.fcd17239.chunk.js.map",
+    "runtime~main.js": "/sports-beth/static/js/runtime~main.f803e560.js",
+    "runtime~main.js.map": "/sports-beth/static/js/runtime~main.f803e560.js.map",
+    "static/js/2.1300203e.chunk.js": "/sports-beth/static/js/2.1300203e.chunk.js",
+    "static/js/2.1300203e.chunk.js.map": "/sports-beth/static/js/2.1300203e.chunk.js.map",
+    "index.html": "/sports-beth/index.html",
+    "precache-manifest.5c1446dbc8ab568d86d2f0471a5d21db.js": "/sports-beth/precache-manifest.5c1446dbc8ab568d86d2f0471a5d21db.js",
+    "service-worker.js": "/sports-beth/service-worker.js",
+    "static/css/main.80c3d5e1.chunk.css.map": "/sports-beth/static/css/main.80c3d5e1.chunk.css.map",
+    "static/media/Barcelona.png": "/sports-beth/static/media/Barcelona.4f9754fa.png",
+    "static/media/Juventus.png": "/sports-beth/static/media/Juventus.10e11d25.png",
+    "static/media/ManchesterUnited.png": "/sports-beth/static/media/ManchesterUnited.a6b01604.png",
+    "static/media/RealMadrid.png": "/sports-beth/static/media/RealMadrid.70efcbab.png",
+    "static/media/cover.jpg": "/sports-beth/static/media/cover.39a23a21.jpg"
+  }
+}
