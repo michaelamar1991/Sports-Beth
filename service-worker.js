@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sports-beth/precache-manifest.5c1446dbc8ab568d86d2f0471a5d21db.js"
+  "/sports-beth/precache-manifest.0e63254fa7271d68249e65e02fdd21b4.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c0ece14b48264748e80fbd13479fce3",
+    "revision": "a7835db3ce69ff3777fdaf37fcf795bc",
     "url": "/sports-beth/index.html"
   },
   {
-    "revision": "b3d79254f8375c3608f3",
+    "revision": "d31c7338508649691ca8",
     "url": "/sports-beth/static/css/main.80c3d5e1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sports-beth/static/js/2.1300203e.chunk.js"
   },
   {
-    "revision": "b3d79254f8375c3608f3",
-    "url": "/sports-beth/static/js/main.fcd17239.chunk.js"
+    "revision": "d31c7338508649691ca8",
+    "url": "/sports-beth/static/js/main.44a6029d.chunk.js"
   },
   {
     "revision": "46e31ed256c54d5bc5aa",
